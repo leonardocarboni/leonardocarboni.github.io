@@ -23,10 +23,10 @@ const greeting = {
   username: "Leonardo Carboni",
   title: "Ciao, I'm Leonardo",
   subTitle: emoji(
-    "🧲 A young passionate devloper with the dream of changing the world using AI."
+    "🧲 A young passionate developer with the dream of changing the world using AI."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1W7wd0djMV5Hu40IoApmfC2NMh_zflHY1/view?usp=share_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1U0RkKKd9P-EKW6SJuwwsHHj6Ru1fvL9r/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 

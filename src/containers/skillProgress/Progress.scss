@@ -43,14 +43,6 @@
   max-width: 70%;
 }
 
-.skills-image {
-  height: 50rem;
-}
-
-svg {
-  height: 50rem;
-}
-
 /* Media Query */
 
 @media (max-width: 1456px) {
@@ -74,5 +66,7 @@ svg {
   .skills-image {
     display: none;
     order: 2;
+    height: 200px;
   }
+  
 }
